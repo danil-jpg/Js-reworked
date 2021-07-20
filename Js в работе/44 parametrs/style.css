@@ -1,0 +1,11 @@
+/* css plugged */
+
+[data-text] {
+    text-align: center;
+    position: relative;
+    top: 100px;
+    left: 702px;
+    overflow: scroll;
+    width: 500px;
+    height: 500px;
+}
